@@ -1,16 +1,20 @@
-## Hi there 👋
+# Pedro Vasques
 
-<!--
-**Vasquez-505/Vasquez-505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineering Master's student at IST, specializing in Systems, Robotics and AI.
 
-Here are some ideas to get you started:
+Currently developing a deep learning pipeline for markerless pose estimation and gait analysis, 
+in collaboration with NOVA Medical School.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+- **Languages:** Python, MATLAB
+- **ML/AI:** PyTorch, TensorFlow, scikit-learn, pandas, NumPy
+- **AI Tools:** Claude API, Claude Code, Model Context Protocol
+- **Engineering:** SolidWorks, Simulink, AutoCAD
+
+## Currently
+- 🎓 MSc Mechanical Engineering @ IST (Systems, Robotics & AI)
+- 🔬 Thesis: Deep Learning for markerless locomotion tracking
+- 📍 Lisbon, Portugal
+
+## Connect
+[LinkedIn](your linkedin url) • [Email](mailto:pedro.vasques@tecnico.ulisboa.pt)
